@@ -3,7 +3,7 @@
 .Rapp.history
 
 # Session Data files
-.RData
+.Rdata
 
 # User-specific files
 .Ruserdata
@@ -35,4 +35,3 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 *.csv
-*.DS_Store
